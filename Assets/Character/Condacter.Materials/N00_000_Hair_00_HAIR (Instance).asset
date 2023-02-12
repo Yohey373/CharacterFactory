@@ -210,7 +210,7 @@ Material:
     - _OutlineScaledMaxDistance: 4.34
     - _OutlineWidth: 0
     - _OutlineWidthMode: 0
-    - _Outline_Width: 0
+    - _Outline_Width: 15.1
     - _ReceiveShadowRate: 1
     - _RimFresnelPower: 100
     - _RimLift: 0.1
@@ -248,7 +248,7 @@ Material:
     - _ZWrite: 1
     - _simpleUI: 0
     - _utsTechnique: 0
-    - _utsVersion: 2.08
+    - _utsVersion: 2.09
     m_Colors:
     - _1st_ShadeColor: {r: 1, g: 1, b: 1, a: 1}
     - _2nd_ShadeColor: {r: 1, g: 1, b: 1, a: 1}
@@ -261,7 +261,7 @@ Material:
     - _HighColor: {r: 0, g: 0, b: 0, a: 1}
     - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0.27450973, g: 0.09019599, b: 0.1254901, a: 1}
-    - _Outline_Color: {r: 0.2745097, g: 0.090195976, b: 0.12549007, a: 1}
+    - _Outline_Color: {r: 0.17817727, g: 0.19091852, b: 0.26415092, a: 1}
     - _RimColor: {r: 0.25, g: 0.25, b: 0.25, a: 1}
     - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShadeColor: {r: 1, g: 1, b: 1, a: 1}
