@@ -10,26 +10,26 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -1446055470851121031}
-    m_Position: {x: 390, y: 170, z: 0}
+    m_State: {fileID: -6424011927834874313}
+    m_Position: {x: 409.13388, y: 166.95538, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
-  m_EntryPosition: {x: 50, y: 120, z: 0}
+  m_EntryPosition: {x: 40, y: 140, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -1446055470851121031}
---- !u!1102 &-1446055470851121031
+  m_DefaultState: {fileID: -6424011927834874313}
+--- !u!1102 &-6424011927834874313
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Walking
+  m_Name: Standing Melee Attack Downward
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -42,7 +42,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e5250213899c57f4aac6b6d80966e082, type: 2}
+  m_Motion: {fileID: -203655887218126122, guid: 69d37c8bfd870844fa4e82316bbe8a45, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
